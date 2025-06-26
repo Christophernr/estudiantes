@@ -1,0 +1,686 @@
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.exe
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.runtimeconfig.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProy.B067BC62.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\refint\mainProyectoEstudiantes.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\mainProyectoEstudiantes.genruntimeconfig.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\mainProyectoEstudiantes\obj\Debug\net8.0-windows\ref\mainProyectoEstudiantes.dll

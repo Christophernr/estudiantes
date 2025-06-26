@@ -1,0 +1,239 @@
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Inicio.resources
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Inicio.resources
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Inicio.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\bin\Debug\net8.0-windows\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AgregarAlumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Alumnos.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Asistencia.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.elegirSeccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.justificacion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.Properties.Resources.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.seccion.resources
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.GenerateResource.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formuala.8F85E110.Up2Date
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\refint\formualarios.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\formualarios.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\formualarios\obj\Debug\net8.0-windows\ref\formualarios.dll

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\mainProyectoEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\agregaralumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\agregaralumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\justificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\justificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\elegirseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\elegirseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E04427B-FA2A-4C1A-AA50-4FD0475B0607}|..\\formualarios\\formualarios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\formualarios\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63288C68-DD0E-4E53-981E-F5D5FC2D1FE6}|..\\negocios\\negocios.csproj|c:\\practica c#\\trabajo con jared\\proyectoescuela.v9\\proyectoescuela.v9\\proyectoescuela\\negocios\\procedimientos\\justificacion\\servicios.justificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarAlumnos.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\AgregarAlumnos.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\AgregarAlumnos.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\AgregarAlumnos.cs",
+              "RelativeToolTip": "..\\formualarios\\AgregarAlumnos.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAawIEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:02:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarAlumnos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\AgregarAlumnos.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\AgregarAlumnos.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\AgregarAlumnos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\AgregarAlumnos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:01:57.596Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seccion.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\seccion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\seccion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\seccion.cs",
+              "RelativeToolTip": "..\\formualarios\\seccion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAD4v0AAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\seccion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\seccion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\seccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\seccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:43.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "elegirSeccion.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\elegirSeccion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\elegirSeccion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\elegirSeccion.cs",
+              "RelativeToolTip": "..\\formualarios\\elegirSeccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:33.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "elegirSeccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\elegirSeccion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\elegirSeccion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\elegirSeccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\elegirSeccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Asistencia.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\Asistencia.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Asistencia.cs",
+              "RelativeToolTip": "..\\formualarios\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:25.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asistencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Asistencia.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\Asistencia.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Asistencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\Asistencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Alumnos.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\Alumnos.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Alumnos.cs",
+              "RelativeToolTip": "..\\formualarios\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:50:15.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alumnos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Alumnos.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\Alumnos.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\Alumnos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\Alumnos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:49:50.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "justificacion.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\justificacion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\justificacion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\justificacion.cs",
+              "RelativeToolTip": "..\\formualarios\\justificacion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:23:34.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "justificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\justificacion.cs",
+              "RelativeDocumentMoniker": "..\\formualarios\\justificacion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\formualarios\\justificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\formualarios\\justificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:23:21.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "servicios.justificacion.cs",
+              "DocumentMoniker": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\negocios\\procedimientos\\justificacion\\servicios.justificacion.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\procedimientos\\justificacion\\servicios.justificacion.cs",
+              "ToolTip": "C:\\practica c#\\trabajo con jared\\ProyectoEscuela.v9\\ProyectoEscuela.v9\\ProyectoEscuela\\negocios\\procedimientos\\justificacion\\servicios.justificacion.cs",
+              "RelativeToolTip": "..\\negocios\\procedimientos\\justificacion\\servicios.justificacion.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:27:20.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+C:\practica c#\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v2\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v3\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v4\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v5\ProyectoEscuela.v5\ProyectoEscuela.v3\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v7\ProyectoEscuela.v6\ProyectoEscuela.v6\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+E:\Descargas\ProyectoEscuela.v8.5\ProyectoEscuela.v8\ProyectoEscuela.v8\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.deps.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\bin\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.AssemblyReference.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfoInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.AssemblyInfo.cs
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.sourcelink.json
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\refint\claseConexion.dll
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\claseConexion.pdb
+C:\practica c#\trabajo con jared\ProyectoEscuela.v9\ProyectoEscuela.v9\ProyectoEscuela\claseConexion\obj\Debug\net8.0\ref\claseConexion.dll
